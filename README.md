@@ -1,2 +1,2 @@
 # python_arduino_lamp
-A python program that scans a web page and based off of the number of three keywords an Arduino will choose the color of an led
+It will also display the number of each keyword on an lcd. The Python program talks to the arduino using serial, as is the standard with Arduino.
